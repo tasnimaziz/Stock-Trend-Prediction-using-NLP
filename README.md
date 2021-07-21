@@ -2,17 +2,17 @@
 
 ## Introduction
 
-Here we are trying to predict the overall stock market trend by sentiment analysis of 'top 25 news headlines' from 2008-08-11 to 2016-07-01.
+Here we are trying to predict the overall stock market trend by sentiment analysis of the tweets.
 
-The main objective of this project is to check whether the sentiments of news headlines have an impact on stock market trend.
+The main objective of this project is to check whether the sentiments of tweets have an impact on stock market trend.
 
 Also, we will try various machine learning algorithms on this data to predict the stock price trend.
 
 The datasets used for this projects are:
 
-#### A. Reddit news :
+#### A. Twitter data :
 
-Historical news headlines from Reddit News Channel. They are ranked by the reddit user's votes. 
+Tweets scrapped using Twitter API 
 
 #### B. Stock market data :
 
